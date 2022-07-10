@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/blueuwu/space-tourism](https://github.com/blueuwu/space-tourism)
-- Live Site URL: [https://space-tourism-pro.netlify.app](https://space-tourism-pro.netlify.app)
+- Live Site URL: [https://space-tourism-pro.netlify.app](https://animated-centaur-b48aaa.netlify.app)
 
 ## My process
 
